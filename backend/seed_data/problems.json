@@ -1,0 +1,20 @@
+{
+  "problems": [
+    {
+      "slug": "battleship",
+      "title": "Battleship",
+      "difficulty": "easy",
+      "description": "Find and sink all hidden ships on a game grid by firing shots at coordinates.",
+      "entry_file": "src/main.py",
+      "files_dir": "problem_files/battleship"
+    },
+    {
+      "slug": "friend-recommender",
+      "title": "Friend Recommender",
+      "difficulty": "medium",
+      "description": "Suggest top k friends based on mutual connections.",
+      "entry_file": "src/main.py",
+      "files_dir": "problem_files/friend-recommender"
+    }
+  ]
+}
